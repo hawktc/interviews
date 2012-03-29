@@ -1,0 +1,11 @@
+### http://bbs.yingjiesheng.com/thread-294179-1-1.html
+
+1¡¢Please write a program which can print all 6 digitsnumbers composed of 1, 2, 2,3,4,5.
+2¡¢All the customer of Amazon are irrelevant to eachother before, they have nothing about other customers and have no chance toshare their feeling with their friends on what they perchased.But now, there isa new system that supports a customer to add another customer as her/his friend,by this way, customer could:
+   a) Comment on what they purchased;
+   b) Write a weblog;
+   c) Launch a small survey on what he/she wants to buy,let others vote on the maybe similar goods;
+   d) Share her/his feeling in shopping;
+   e) Recommend goods to others;
+   f) etc¡­
+Please use your OO and database knowledgeto design a broadcasting system so that every customer can know their friends¡¯activity that includes comments, weblogs, etc, all above mentioned items.
