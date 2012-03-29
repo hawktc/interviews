@@ -1,7 +1,7 @@
-### http://bbs.yingjiesheng.com/thread-294179-1-1.html
-
-1¡¢Please write a program which can print all 6 digitsnumbers composed of 1, 2, 2,3,4,5.
-2¡¢All the customer of Amazon are irrelevant to eachother before, they have nothing about other customers and have no chance toshare their feeling with their friends on what they perchased.But now, there isa new system that supports a customer to add another customer as her/his friend,by this way, customer could:
+.h3 Sec01 2012-03-29
+"Ref. Link":http://bbs.yingjiesheng.com/thread-294179-1-1.html
+# Please write a program which can print all 6 digitsnumbers composed of 1, 2, 2,3,4,5.
+# All the customer of Amazon are irrelevant to eachother before, they have nothing about other customers and have no chance toshare their feeling with their friends on what they perchased.But now, there isa new system that supports a customer to add another customer as her/his friend,by this way, customer could:
    a) Comment on what they purchased;
    b) Write a weblog;
    c) Launch a small survey on what he/she wants to buy,let others vote on the maybe similar goods;
